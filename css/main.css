@@ -1,0 +1,79 @@
+body {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+.pacifico {
+    font-family: Pacifico;
+}
+
+h1,
+h2,
+h3,
+h4,
+.h1,
+.h2,
+.h3,
+.h4 {
+    text-shadow: 2px 2px gray !important;
+}
+
+.productBox {
+    padding-right: 0!important;
+}
+
+@media only screen and (max-width: 600px) {
+    .table td {
+        padding: 0 !important;
+    }
+    .table {
+        padding: 0 !important;
+    }
+}
+
+.card-img-top {
+    height: 23em;
+}
+
+.foot {
+    font-size: 0.9rem !important;
+}
+
+#cart {
+    position: relative;
+}
+
+#cartCounter {
+    position: absolute;
+    top: 18px;
+    left: 33%;
+    font-size: 10px;
+}
+
+.map {
+    height: 15rem;
+}
+
+#avatarDetail {
+    display: contents !important;
+}
+
+.hiddenForm,
+.hiddenForm2,
+.hiddenPW1,
+.hiddenPW2 {
+    visibility: hidden;
+    height: 0.1rem;
+}
+
+.boot4cancel {
+    background-color: #dc3545;
+}
+
+.boot4ok {
+    background-color: #28a745;
+}
+
+.modal-header {
+    font-weight: bolder;
+    background-color: #F0F0F0;
+}

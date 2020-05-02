@@ -1,0 +1,104 @@
+.discount_edit {
+    background-color: #f0f0f5;
+}
+
+.discountContainer {
+    margin-bottom: 35vh;
+}
+
+#userBox {
+    margin-bottom: 20vh;
+}
+
+#userRoleContent {
+    margin-top: 10vh;
+    margin-bottom: 30vh;
+}
+
+.responsiveIMG {
+    border-radius: 25px;
+    width: 100%;
+    max-height: 30em;
+    height: auto;
+}
+
+#helpBox {
+    margin-bottom: 17vh;
+}
+
+#cartBox {
+    margin-top: 10vh;
+    margin-bottom: 30vh;
+}
+
+#checkoutBox {
+    margin-top: 10vh;
+}
+
+#indexBox {
+    margin-top: 10vh;
+    margin-bottom: 35vh;
+}
+
+
+/* body {
+    background-image: url(../img/);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+
+.card-title {
+    height: 3em;
+}
+
+#details:hover {
+    background-color: #FFC107!important;
+    color: black !important;
+}
+
+#edit:hover {
+    background-color: #00b386!important;
+    color: black !important;
+}
+
+#delete:hover {
+    background-color: #CF3645!important;
+    color: black !important;
+}
+
+#addtoCart:hover {
+    background-color: #299D45!important;
+    color: black !important;
+}
+
+#addtoWishlist:hover .fa-heart-o {
+    color: black !important;
+}
+
+#addtoWishlist:hover {
+    background-color: #FFC107!important;
+    color: black !important;
+}
+
+body {
+    background-color: #fff7e6;
+}
+
+.jumbotron {
+    background-color: #ffe6cc;
+}
+
+#deletePage {
+    margin-top: 15vh;
+    margin-bottom: 30vh;
+}
+
+#deleteBox {
+    height: 20em;
+}
+
+.wishlistBox {
+    margin-top: 15vh !important;
+    margin-bottom: 40vh !important;
+}
